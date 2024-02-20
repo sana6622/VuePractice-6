@@ -28,5 +28,7 @@ module.exports = {
     'vue'
   ],
   rules: {
+    'semi': ["error", "always"],   
+    'space-before-function-paren':0
   }
 }
